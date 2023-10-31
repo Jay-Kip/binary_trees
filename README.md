@@ -1,6 +1,6 @@
 Projects on Binary Data sturctures and algorithm Using Binary trees
 
-	/*Authord*/
+	/*Authors*/
 Ndaruga Stephen
 Hannington Kiptoo
 
